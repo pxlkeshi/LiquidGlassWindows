@@ -2,6 +2,11 @@
 
 macOS / iOS-style desktop widgets for Windows, written in Rust. They have a "liquid glass" look and draw themselves on the CPU, with no UI framework. They sit on the desktop above the wallpaper and below every other window.
 
+
+https://github.com/user-attachments/assets/72385d6c-c09b-46c3-b4d8-b6bd07419ab8
+
+
+
 > [!WARNING]
 > **This is an unsupported personal side project.**
 >

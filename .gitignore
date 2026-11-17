@@ -1,0 +1,13 @@
+# Build output
+/target/
+
+# Fonts are not redistributable (see assets/README.md)
+/assets/*.ttf
+/assets/*.otf
+
+# Editor / OS clutter
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
